@@ -2,6 +2,10 @@
 
 Aan de lunchtafel vinden we dat we een aardig eind op weg zijn met agile, scrum en kanban. We hebben tools, excel sheets voor de sprints en mooie slides over scrum. Daarna gaan we weer aan het werk en komen de echte vragen. 
 
+Belangrijkste vraag is hoe je ieder project weer een goed team maakt met je klant, de experts en iedereen er omheen.  
+
+Ieder project begint met verwachtingen, verschillende teams en twee organisaties. Het sales traject heeft verwachtingen geschapen. vaak wil iedereen
+
 
 
 
