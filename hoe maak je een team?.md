@@ -2,6 +2,9 @@
 
 Met verschillende teams en verschillende opdrachtgevers hebben we elke keer een nieuwe versie. De een succesvoller dan de ander, onze vraag is: Waarom gaat het ene project zo soepel en het andere helemaal niet?
 
+Verbeter de wereld en begin bij jezelf. Vooral als projecten lastig gaan, schieten we als projectleiders in oud gedrag. 
+
+
 We werken voor veel verschillende opdrachtgevers en dus met vershillende product owners. Iedere product owner heeft een eigen organisatie 
 
 Onze topvijf ziet er als volgt uit:
