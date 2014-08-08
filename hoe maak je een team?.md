@@ -2,9 +2,16 @@
 
 Aan de lunchtafel vinden we dat we een aardig eind op weg zijn met agile, scrum en kanban. We hebben tools, excel sheets voor de sprints en mooie slides over scrum. Daarna gaan we weer aan het werk en komen de echte vragen. 
 
-Belangrijkste vraag is hoe je ieder project weer een goed team maakt met je klant, de experts en iedereen er omheen.  
+Met verschillende teams en verschillende opdrachtgevers hebben we elke keer een nieuwe versie. De een succesvoller dan de ander, onze vraag is: hoe maken we zoveel mogelijk projecten en klanten succesvol? 
 
-Ieder project begint met verwachtingen, verschillende teams en twee organisaties. Het sales traject heeft verwachtingen geschapen. vaak wil iedereen
+Onze topvijf ziet er als volgt uit:
+1. De klant
+2. Het team en jezelf
+3. Het project
+4. De verwachtingen
+5. De aanpak
+
+
 
 
 
