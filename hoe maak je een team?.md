@@ -1,8 +1,8 @@
-[Share your learning curve](http://www.tedxamsterdam.com/joris-luyendijk-make-the-world-understandable/) is wat Joris Luyendijk iedereen in 2011 meegaf.  En dat is ook wat we nu bij eFocus doen: verschillende projecten bij heel verschillende opdrachtgevers en een divers team geven veel inzicht. Nu maar eens proberen of dat ook digitaal lukt: nog een learning curve. 
+[Share your learning curve](http://www.tedxamsterdam.com/joris-luyendijk-make-the-world-understandable/) is wat Joris Luyendijk iedereen in 2011 meegaf.  Nu maar eens proberen of dat ook digitaal lukt: nog een learning curve. Aan de lunchtafel vinden we dat we een aardig eind op weg zijn met agile, scrum en kanban. We hebben tools, excel sheets voor de sprints en mooie slides over scrum. Daarna gaan we weer aan het werk en komen de echte vragen. 
 
-Aan de lunchtafel vinden we dat we een aardig eind op weg zijn met agile, scrum en kanban. We hebben tools, excel sheets voor de sprints en mooie slides over scrum. Daarna gaan we weer aan het werk en komen de echte vragen. 
+Met verschillende teams en verschillende opdrachtgevers hebben we elke keer een nieuwe versie. De een succesvoller dan de ander, onze vraag is: Waarom gaat het ene project zo soepel en het andere helemaal niet?
 
-Met verschillende teams en verschillende opdrachtgevers hebben we elke keer een nieuwe versie. De een succesvoller dan de ander, onze vraag is: hoe maken we zoveel mogelijk projecten en klanten succesvol? 
+We werken voor veel verschillende opdrachtgevers en dus met vershillende product owners. Iedere product owner heeft een eigen organisatie 
 
 Onze topvijf ziet er als volgt uit:
 1. De klant
