@@ -26,7 +26,7 @@ Onze topvijf ziet er als volgt uit:
 -----
 
 
-Wat we nog duidelijker vinden, is dat we nog een hoop te verbeteren hebben: Hoe krijg je verschillende klanten mee, hoe hou je teams gemotiveerd en vooral: Wat doe je zelf? En wat is je eigen rol?
+Wat we nog duidelijker vinden, is dat we nog een hoop te verbeteren hebben: Hoe krijg je verschillende opdrachtgevers mee, hoe hou je teams gemotiveerd en vooral: Wat doe je zelf? En wat is je eigen rol?
 
 Tussen de salades door blijkt dat iedere projectmanager een andere invulling geeft in agile projecten. Een aantal van ons blijft de klassieke PM, anderen kiezen meer een rol als coach of als scrum master.
 
@@ -40,7 +40,8 @@ De reflex van een PM is om commitment te zoeken bij het team, zelf te gaan vastz
 
 Definition of done
 
-voorbeelden van klanten
+voorbeelden van opdrachtgevers
+
 
 deelopleveren?
 
