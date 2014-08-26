@@ -1,9 +1,19 @@
-[Share your learning curve](http://www.tedxamsterdam.com/joris-luyendijk-make-the-world-understandable/) is wat Joris Luyendijk iedereen in 2011 meegaf.  Nu maar eens proberen of dat ook digitaal lukt: nog een learning curve. Aan de lunchtafel vinden we dat we een aardig eind op weg zijn met agile, scrum en kanban. We hebben tools, excel sheets voor de sprints en mooie slides over scrum. Daarna gaan we weer aan het werk en komen de echte vragen. 
+[Share your learning curve](http://www.tedxamsterdam.com/joris-luyendijk-make-the-world-understandable/) is wat Joris Luyendijk iedereen in 2011 meegaf.  Nu maar eens proberen of dat ook lukt: een learning curve in het delen van een learning curve: Hoe hervinden we onszelf als project managers in een agile omgeving?
 
-Met verschillende teams en verschillende opdrachtgevers hebben we elke keer een nieuwe versie. De een succesvoller dan de ander, onze vraag is: Waarom gaat het ene project zo soepel en het andere helemaal niet?
+Aan de lunchtafel vinden we dat we een aardig eind op weg zijn met agile, scrum en kanban. We hebben tools, excel sheets voor de sprints en mooie slides over scrum. Daarna gaan we weer aan het werk en komen de echte vragen. 
+
+Het McKinsey artikel [Developing talent for large IT projects](http://www.mckinsey.com/Insights/Business_Technology/Developing_talent_for_large_IT_projects?cid=other-eml-alt-mip-mck-oth-1408) helpt ons goed op weg. Heldere richting, operationele discipline en een open sfeer zijn de belangrijkste pijlers van een goed project. Voor ons komt daar nog flow bij: hoe komt een team in het juiste ritme en neemt het zelf verantwoordelijkheid?
+
+Maar goed, nu de praktijk. Als project manager word er vaak naar je gekeken om beslissingen voor het team te nemen: tijd, budget, resultaat. Opdrachtgevers kijken vaak naar de project manager voor antwoorden. Stap je daarin, dan kom je daar lastig uit.
+
+<H1>ZMOT </H1>
+Onze ervaring is dat eder project lijkt wel 1 of meer (maar niet teveel, hopelijk ;-) ) momenten van de waarheid te kennen. Deze Zero Moments of Truth laten zien hoe jij er voor staat en hoe het team er voor staat. Sprint 0 is begonnen, iedereen is druk bezig. De verwachtingen na de pitch zijn hoog. De sprints zijn krap gepland om te zorgen voor maximale waarde. Die eerste sprint wordt er nog weinig opgeleverd. Het team en de opdrachtgever hebben nog veel vragen en er is weinig zekerheid. Ideaal moment dus om de vraag te krijgen wat er nu opgeleverd gaat worden en wat het team nu doet vanuit de odprachtgever. Vaak baal je zelf ook dat je nog geen grip hebt, dus een heel mooi moment om de vraag te krijgen. Vertaal je jouw eigen onzekerheid door? onze ervaring is, dat als je die doorvertaalt, je het wel lastig hebt in het begin. Maar loopt het eenmaal, dan levert dat moment veel credit en ruimte op. 
+
+
+
+Met verschillende teams en verschillende opdrachtgevers hebben we elke keer een nieuwe versie. De een succesvoller dan de ander, onze vraag is: Waarom loopt het ene project zo soepel en het andere helemaal niet?
 
 Verbeter de wereld en begin bij jezelf. Vooral als projecten lastig gaan, schieten we als projectleiders in oud gedrag. 
-
 
 We werken voor veel verschillende opdrachtgevers en dus met vershillende product owners. Iedere product owner heeft een eigen organisatie 
 
