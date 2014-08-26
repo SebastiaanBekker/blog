@@ -4,58 +4,11 @@ Aan de lunchtafel vinden we dat we een aardig eind op weg zijn met agile, scrum 
 
 Het McKinsey artikel [Developing talent for large IT projects](http://www.mckinsey.com/Insights/Business_Technology/Developing_talent_for_large_IT_projects?cid=other-eml-alt-mip-mck-oth-1408) helpt ons goed op weg. Heldere richting, operationele discipline en een open sfeer zijn de belangrijkste pijlers van een goed project. Voor ons komt daar nog flow bij: hoe komt een team in het juiste ritme en neemt het zelf verantwoordelijkheid?
 
-Maar goed, nu de praktijk. Als project manager word er vaak naar je gekeken om beslissingen voor het team te nemen: tijd, budget, resultaat. Opdrachtgevers kijken vaak naar de project manager voor antwoorden. Stap je daarin, dan kom je daar lastig uit.
+Maar goed, nu de praktijk. Als project manager word er vaak naar je gekeken om beslissingen voor het team te nemen: tijd, budget, resultaat. Opdrachtgevers kijken vaak naar de projectmanager voor antwoorden. Stap je daarin, dan kom je daar lastig uit. Dit zijn voor ons de meest lastige momenten, met een valkuil voor de klassieke (project) manager in ons. De gouden aanpak hebben we nog niet gevonden, als die er al is. (tips zijn welkom ;-)  ). Ieder project kent zijn momenten (en onmdat we ecommerce doen, noemen we ze ZMOT's). 
 
-<H1>ZMOT </H1>
+<H1>ZMOT</H1>
 Onze ervaring is dat eder project lijkt wel 1 of meer (maar niet teveel, hopelijk ;-) ) momenten van de waarheid te kennen. Deze Zero Moments of Truth laten zien hoe jij er voor staat en hoe het team er voor staat. Sprint 0 is begonnen, iedereen is druk bezig. De verwachtingen na de pitch zijn hoog. De sprints zijn krap gepland om te zorgen voor maximale waarde. Die eerste sprint wordt er nog weinig opgeleverd. Het team en de opdrachtgever hebben nog veel vragen en er is weinig zekerheid. Ideaal moment dus om de vraag te krijgen wat er nu opgeleverd gaat worden en wat het team nu doet vanuit de odprachtgever. Vaak baal je zelf ook dat je nog geen grip hebt, dus een heel mooi moment om de vraag te krijgen. Vertaal je jouw eigen onzekerheid door? onze ervaring is, dat als je die doorvertaalt, je het wel lastig hebt in het begin. Maar loopt het eenmaal, dan levert dat moment veel credit en ruimte op. 
 
+Ik merk dat je eigen rol daarmee wel heel anders wordt. Van de klassieke manager naar coach, vertaler, adviseur van het team. Bij mezelf merk ik dat dit meer energie kost en dat ik meer kan en moet laten zien van mezelf hierin. Alleen als je open en eerlijk naar je eigen aandeel en aanpak kijkt, krijg je een team  en opdrachtgever mee om hetzelfde te doen. Het vraagt meer coachingsvaardigheden, luisteren en teruggeven dans sturen en managen.
 
-
-Met verschillende teams en verschillende opdrachtgevers hebben we elke keer een nieuwe versie. De een succesvoller dan de ander, onze vraag is: Waarom loopt het ene project zo soepel en het andere helemaal niet?
-
-Verbeter de wereld en begin bij jezelf. Vooral als projecten lastig gaan, schieten we als projectleiders in oud gedrag. 
-
-We werken voor veel verschillende opdrachtgevers en dus met vershillende product owners. Iedere product owner heeft een eigen organisatie 
-
-Onze topvijf ziet er als volgt uit:
-1. De klant
-2. Het team en jezelf
-3. Het project
-4. De verwachtingen
-5. De aanpak
-
-
-
-
-
-
-
-----
-
-
------
-
-
-Wat we nog duidelijker vinden, is dat we nog een hoop te verbeteren hebben: Hoe krijg je verschillende opdrachtgevers mee, hoe hou je teams gemotiveerd en vooral: Wat doe je zelf? En wat is je eigen rol?
-
-Tussen de salades door blijkt dat iedere projectmanager een andere invulling geeft in agile projecten. Een aantal van ons blijft de klassieke PM, anderen kiezen meer een rol als coach of als scrum master.
-
-SB voor mij zijn er drie spannende momenten bij een agile project: vanaf kick-off tot presentatie sprint 1, de dip ergens in het midden en mijn eigen rol. 
-
-Voor een projectmanager (en dat zijn wij) is dat steeds meer de vraag. (Sebastiaan) Ik merk zelf dat ik meer moet loslaten, minder stuur op de cijfers. Tegelijkertijd ben ik drukker met het voorbereiden van meetings en interventies. 
-
-Bij sprint 0 is dat het lastigst. De sales pitch is voorbij, de visie en de frisse blik zijn opgeleverd en met gejuich ontvangen. En dan. Voor je gevoel kijkt iedereen naar de PM: Gaan we dit binnen tijd, budget en scope halen? Waarom zijn we nog niet aan het bouwen? Het team en de klant zijn op zoek. Na sprint 1 heb je of een crisis waar je mee aan de slag kunt, of vertrouwen. Je hebt opgeleverd, user stories vertaald naar concrete pagina's. Er is zichtbaar wat het team kan. Sprint 0 heeft dat nog niet. Je team is net bijeen, met een beetje pech nog bij het vorige project en veel is nog onduidelijk. 
-
-De reflex van een PM is om commitment te zoeken bij het team, zelf te gaan vastzetten. Dat is ook vaak wat het team en de klant zoekt. 
-
-Definition of done
-
-voorbeelden van opdrachtgevers
-
-
-deelopleveren?
-
-
-
-
-
+Meer van jezelf en meer in het team is les 1 voor ons. Hoe hou je daarin operationele discipline en hou je zicht op de richting zijn de volgende stappen. 
