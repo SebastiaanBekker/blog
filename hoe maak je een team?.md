@@ -32,9 +32,6 @@ De verwachtingen na de pitch zijn hoog, de kick-off is geweest. Nu gaan we aan d
 Hopelijk is dat niet sprint 1, maar ergens in de sprints zakt de velocity weg. Story points worden niet opgeleverd, SUM's verlopen stroef of dezelfde vragen blijven opkomen. De symptomen zijn verschillend, maar na een aantal goede sprints, zakt het team vaak even in. Wat nu? Laat je het open aan het team dit te ontdekken? Of stel je zelf iets vast? ook hier zal de eerste optie goed werken. Toch merken we dat het goed is als je zelf af en toe aangeeft wat je verwacht van het team en wat je ziet. Kies je de juiste toon, hou je het bij jezelf en ben je echt begaan met het team, dan blijkt dat iedereen wel het gevoel had. Niemand kon of wilde het zo benoemen. 
 
 <h2>De final coutndown</H2>
-Alle keuzes zijn gemaakt. Het budget is bijna op. De backlog is altijd toch nog gevuld met meer en met meer dan je kan maken als team. Vooral tussen opdrachtgever en bureau kom je dan in een lastige situatie. Waar ligt het aan? ligt op de loer. Hiervoor hebben we een mooie quote gevonden, die we als poster nu vaak bij opdrachtgevers ophangen: 
+Alle keuzes zijn gemaakt. Het budget is bijna op. De backlog is altijd toch nog gevuld met meer en met meer dan je kan maken als team. Vooral tussen opdrachtgever en bureau kom je dan in een lastige situatie. Waar ligt het aan? ligt op de loer. Hiervoor hebben we een mooie quote gevonden op http://startupquote.com/, die we als poster nu vaak bij opdrachtgevers ophangen en hieronder te downloaden is. Het gaat dat de oprichters van Linkedin wilden wachten met de livegang tot de contact finder geimplementeerd was. De site ging toch live en acht jaar later is de feature nog niet ingevoerd. Hoffman's inzicht is dat je als bedenker niet echt weet wat je klanten willen (tenzij je Steve Jobs bent) en dat je maar beter kunt gaan met wat je hebt. Zo krijg je inzicht in wat je echt nodig hebt. Dit inzicht heeft ons vaak geholpen in die laatste momenten voor livegang. 
 
-
-Tips zijn welkom!
-
-We zijn altijd op zoek naar meer ZMOT's 
+We zijn erg benieuwd of er nog meet ZMOT's zijn en hoe je ermee omgaat!
