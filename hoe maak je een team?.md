@@ -23,7 +23,7 @@ Onze ervaring is dat ieder project een aantal belangrijke momenten kent, waar je
 Tot nu toe zien we de volgende ZMOT's
 - Sprint 0
 - De dip sprint
-- De eindspurt
+- De final countdown
 
 <H2>Sprint 0</H2>
 De verwachtingen na de pitch zijn hoog, de kick-off is geweest. Nu gaan we aan de slag. De sprints zijn krap gepland om te zorgen voor maximale waarde. Die eerste sprint wordt er nog weinig opgeleverd, maar veel voorbereid. Daarom noemen wij hem vaak sprint 0. Het team en de opdrachtgever hebben nog veel vragen en er is weinig zekerheid. Ideaal moment dus om de vraag te krijgen wat er nu opgeleverd gaat worden en wat het team nu doet vanuit de odprachtgever. Vaak baal je zelf ook dat je nog geen grip hebt, dus een ideaal moment om die vraag te krijgen. Vertaal je jouw eigen onzekerheid door? Of ga je voor je team staan en zegt dat het goed komt? Het tweede werkt, maar geeft je een aantal slapeloze nachten. Het eerste antwoord kan het verschil maken. Door die vraag te ontdekken bij de product owner, hem waardevrij te verwoorden en hem aan het team te geven, komt er veel los. Vaak is het team hier zelf ook mee bezig. Soms hebben ze het antwoord al. Soms heeft de onzekerheid al tot spanningen in het team geleid. Als je in deze meeting laat gebeuren wat er gebeurt, kom je altijd verder.
@@ -31,7 +31,10 @@ De verwachtingen na de pitch zijn hoog, de kick-off is geweest. Nu gaan we aan d
 </H2>de dip sprint</H2>
 Hopelijk is dat niet sprint 1, maar ergens in de sprints zakt de velocity weg. Story points worden niet opgeleverd, SUM's verlopen stroef of dezelfde vragen blijven opkomen. De symptomen zijn verschillend, maar na een aantal goede sprints, zakt het team vaak even in. Wat nu? Laat je het open aan het team dit te ontdekken? Of stel je zelf iets vast? ook hier zal de eerste optie goed werken. Toch merken we dat het goed is als je zelf af en toe aangeeft wat je verwacht van het team en wat je ziet. Kies je de juiste toon, hou je het bij jezelf en ben je echt begaan met het team, dan blijkt dat iedereen wel het gevoel had. Niemand kon of wilde het zo benoemen. 
 
-<h2>De eindspurt</H2>
-Alle keuzes zijn gemaakt. Het budget is bijna op. De backlog is altijd toch nog gevuld met meer en met meer dan je kan maken als team. Vooral tussen opdrachtgever en bureau kom je dan in een lastige situatie. Waar ligt het aan? ligt op de loer. Hier hebben we eigenlijk nog geen goed antwoord op gevonden. Hard werken en open houden zijn open deuren. Tips zijn welkom!
+<h2>De final coutndown</H2>
+Alle keuzes zijn gemaakt. Het budget is bijna op. De backlog is altijd toch nog gevuld met meer en met meer dan je kan maken als team. Vooral tussen opdrachtgever en bureau kom je dan in een lastige situatie. Waar ligt het aan? ligt op de loer. Hiervoor hebben we een mooie quote gevonden, die we als poster nu vaak bij opdrachtgevers ophangen: 
+
+
+Tips zijn welkom!
 
 We zijn altijd op zoek naar meer ZMOT's 
